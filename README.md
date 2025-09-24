@@ -1,0 +1,1 @@
+These are some materials to learn Python from taken from [CTU](https://gitlab.fjfi.cvut.cz/ksi), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
