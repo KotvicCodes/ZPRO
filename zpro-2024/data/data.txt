@@ -1,0 +1,3 @@
+Nějaký textový soubor,
+který obsahuje
+více řádků.
