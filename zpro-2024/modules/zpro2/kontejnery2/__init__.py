@@ -1,1 +1,0 @@
-__all__ = ['seznam2', 'slovnik2']
