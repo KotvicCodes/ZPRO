@@ -1,0 +1,3 @@
+#year,month,day,t_average,t_max,t_min
+2023,10,1,1.5,5.0,0.2
+2023,10,11,aaa,1.5,1.4
