@@ -114,4 +114,6 @@ Most lesson material, assignment texts and course data come from the [upstream c
 - [Solved exercises from the course](https://gitlab.fjfi.cvut.cz/ksi/zpro-2025-resene-priklady)
 - [Course page in the ČVUT Bílá kniha](https://bilakniha.cvut.cz/cs/predmet11274505.html)
 
+My exercise solutions, modifications and original scripts are credited to **Kotvič**.
+
 The entire repository, including my exercise solutions and other additions, is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE), the same license as the upstream course materials.
