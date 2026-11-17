@@ -92,3 +92,7 @@ typings/
 
 # Electron-Forge
 out/
+
+# Local Python and Jupyter files
+.venv/
+.ipynb_checkpoints/
